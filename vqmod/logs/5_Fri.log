@@ -1,0 +1,26 @@
+---------- Date: 2017-07-21 12:25:01 ~ IP : 127.0.0.1 ----------
+REQUEST URI : zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : C:\OpenServer\domains\en.fidelitti.com\vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+MOD DETAILS:
+   modFile   : C:\OpenServer\domains\en.fidelitti.com\vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+

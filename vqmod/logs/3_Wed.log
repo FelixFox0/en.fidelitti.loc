@@ -1,0 +1,63 @@
+---------- Date: 2017-07-12 19:57:14 ~ IP : 213.110.102.155 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/en.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-12 20:00:26 ~ IP : 213.110.102.155 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/en.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-12 20:38:18 ~ IP : 213.110.102.155 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/en.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-12 21:36:24 ~ IP : 207.244.78.186 ----------
+REQUEST URI : .php?route=product/quick_view&product_id=320
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/en.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+----------------------------------------------------------------------
+
+
